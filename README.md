@@ -1,6 +1,6 @@
 # Python-games
 
 
-New version of Alien_Invsansion Eric Matthes
+New version of alien_invasion, Eric Matthes
 
 Enjoy it
